@@ -52,6 +52,33 @@ p {
   color: white;
 }
 
+.primary-link-1 {
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+  background: #b1e0f4;
+  box-shadow: var(--box-shadow);
+  color: white;
+}
+.primary-link-2 {
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+  background: #8f8bac;
+  box-shadow: var(--box-shadow);
+  color: white;
+}
+.primary-link-3 {
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+  background: #c2785b;
+  box-shadow: var(--box-shadow);
+  color: white;
+}
 .secondary-link {
   border-radius: 4px;
   padding: 20px 15px;
